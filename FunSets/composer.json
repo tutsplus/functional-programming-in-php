@@ -1,0 +1,13 @@
+{
+    "name": "vendor/fun-sets",
+    "description": "An implementation of sets in PHP using funtional programming paradigms.",
+    "authors": [
+        {
+            "name": "Patkos Csaba",
+            "email": "patkoscsaba@gmail.com"
+        }
+    ],
+    "require": {
+		"phpunit/phpunit": "3.7.*"
+    }
+}
